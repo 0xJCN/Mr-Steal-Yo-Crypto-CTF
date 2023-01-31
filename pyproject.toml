@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "Mr Steal Yo Crypto CTF"
+version = "0.1.0"
+description = "Mr Steal Yo Crypto CTF reproduced with Ape"
+authors = "0xJCN"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+vyper = "^0.3.7"
+eth-ape = "^0.5.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
