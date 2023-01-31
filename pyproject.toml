@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "Mr Steal Yo Crypto CTF"
 version = "0.1.0"
-description = "Mr Steal Yo Crypto CTF reproduced with Ape"
-authors = "0xJCN"
+description = "Mr Steal Yo Crypto CTF implemented with Ape"
+authors = ["0xJCN"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
